@@ -1,8 +1,42 @@
-# React + Vite
+# Simple Todo app Using React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Todo app created with Vite.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting-started)
+
+## About
+
+Created A simple Todo App in React.js
+
+## Features
+
+
+- Can Add The Todo
+- Can Delete Todo
+
+
+## Getting Started
+
+These instructions will help you set up and run the project on your local machine.
+
+1. Clone The repository.
+   <br>
+   <br>
+2. Navigate to the project directory:<br>
+    cd your-todo-app
+   <br>
+   <br>
+3. Install dependencies:<br>
+     npm install
+   <br>
+   <br>
+4. Run the development server:<br>
+    npm run dev
+   <br>
+<br>
+
+- The app should now be running at 'http://localhost:5173'.
