@@ -27,7 +27,7 @@ These instructions will help you set up and run the project on your local machin
    <br>
    <br>
 2. Navigate to the project directory:<br>
-    cd your-todo-app
+    cd React-Todoapp
    <br>
    <br>
 3. Install dependencies:<br>
