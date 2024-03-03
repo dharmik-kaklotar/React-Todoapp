@@ -39,4 +39,4 @@ These instructions will help you set up and run the project on your local machin
    <br>
 <br>
 
-- The app should now be running at 'http://localhost:5173'.
+- The app should now be running at 'http://localhost:5173'..
